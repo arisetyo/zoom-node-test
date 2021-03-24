@@ -169,4 +169,4 @@ The link to that can be used to start the meeting. In the scheduling feature's c
 
 The test server source code is available here:
 
-*tba*
+https://github.com/arisetyo/zoom-node-test
